@@ -2039,7 +2039,7 @@ textarea.form-control {
 }
 .navbar .navbar-brand {
     font-weight: 600;
-    margin: 5px 0px;
+    /*margin: 5px 0px;*/
     /*padding: 20px 15px;*/
     font-size: 14px;
     color: #66615B;
@@ -2121,7 +2121,7 @@ textarea.form-control {
     position: absolute;
 }
 .navbar.navbar-transparent {
-    padding-top: 25px;
+
 }
 .navbar .logo-container {
     margin-top: 5px;
@@ -4829,6 +4829,9 @@ textarea.form-control {
     }
     .presentation-page .section-icons .icons-nucleo .nc-icon:not(.ninth-left-icon):not(.seventh-left-icon):not(.third-left-icon) {
         display: none !important;
+    }
+    .presentation-title{
+     font-size: 4em!important;
     }
 }
 @media screen and (max-width: 991px) {
